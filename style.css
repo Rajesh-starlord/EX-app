@@ -1,0 +1,113 @@
+
+html{
+  padding: 0px;
+  background-color: #fff;
+}
+
+.nav{
+  height:50px;
+  width: 100%;
+  margin: 2px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  background-color:#f1f3f6;
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.16);
+  text-align: center;
+}
+h1{
+  margin: 0px;
+}
+.sidenav{
+  width:250px;
+  height:550px;
+  margin: 2px;
+  margin-top: 0px;
+  padding: 2px;
+  background-color:#f1f3f6;
+  box-shadow: 0 1px 1px 1px rgba(0,0,0,.16);
+  float: left;
+}
+.profile_container{
+  height:250px;
+  width:auto;
+  padding: 2px;
+  margin:2px;
+  background-color: #fff;
+}
+.profile{
+  height:210px;
+  width: auto;
+  margin-top: 2px;
+  border: 1px dotted;
+  background-image: url("kurkure.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.options{
+  height:100px;
+  width: auto;
+  margin: 2px;
+}
+ul li{
+  list-style: none;
+  background-color: #fff;
+  box-shadow: 0 1px 1px 1px rgba(0,0,0,.16);
+  margin: 5px 0px 5px 0px;
+  cursor: pointer;
+}
+ul li:hover{
+  color: limegreen;
+}
+ul {
+  padding:2px;
+  margin-top: 2px;
+  margin-bottom:2px;
+  text-align: center;
+}
+.profile_name{
+  position: relative;
+  top: 0px;
+  height:30px;
+  width: auto;
+  border: 1px dotted;
+  text-align: center;
+  padding: 2px;
+  font-size: 1.5rem;
+  background-color: #fff;
+}
+.main_container{
+  height:auto;
+  margin: 4px 0px 4px 0px;
+  padding: 2px 0px 2px 0px;
+  width: auto;
+}
+.container{
+  height:550px;
+  width: auto;
+  padding: 2px;
+  margin-left: 262px;
+  background-color:#f1f3f6;
+  box-shadow: 0 1px 1px 1px rgba(0,0,0,.16);
+}
+.sub_container{
+  height:510px;
+  margin: 20px;
+  width:auto;
+  background-color: #fff;
+  text-align: center;
+  padding: 2px;
+}
+.wikidata,.life_lessions_data,.voice_data{
+  height: 350px;
+  width:auto;
+  margin:5px 20px 5px 20px;
+  border: 1px solid;
+}
+profile{
+  display:inline-block;
+  height:150px;
+  width:150px;
+  border: 1px dotted;
+  background-image: url("kurkure.jpg");
+  background-size: cover;
+}
